@@ -306,6 +306,9 @@ main {
   min-width: 259px;
 }
 
+.service-item-title a {
+  color: var(--white-2); /* Or any color you wish to use */
+}
 
 
 
